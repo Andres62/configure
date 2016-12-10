@@ -20,7 +20,7 @@
 #ifndef __FinishedPage__
 #define __FinishedPage__
 
-class FinishedPage : public CPropertyPage
+value class FinishedPage : public CPropertyPage
 {
   DECLARE_DYNCREATE(FinishedPage)
 
